@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36.934177mm"
+   height="17.480974mm"
+   viewBox="0 0 36.934177 17.480974"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-134.27639,-115.72547)">
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 134.40867,129.25466 h 36.39315"
+       id="path1" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1"
+       width="20.566881"
+       height="13.396909"
+       x="142.32181"
+       y="115.85775"
+       ry="0.096666992" />
+    <circle
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path2"
+       cx="153.10526"
+       cy="123.05621"
+       r="0.61386603" />
+    <circle
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle3"
+       cx="153.10527"
+       cy="129.4062"
+       r="0.61386621" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Serif;-inkscape-font-specification:Serif;text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="168.31151"
+       y="122.31006"
+       id="text5"><tspan
+         id="tspan5"
+         style="stroke-width:0.264583"
+         x="168.31151"
+         y="122.31006">(S)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Serif;-inkscape-font-specification:Serif;text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="156.7776"
+       y="133.07414"
+       id="text6"><tspan
+         id="tspan6"
+         style="stroke-width:0.264583"
+         x="156.7776"
+         y="133.07414">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Serif;-inkscape-font-specification:Serif;text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="156.67735"
+       y="124.59721"
+       id="text7"><tspan
+         id="tspan7"
+         style="stroke-width:0.264583"
+         x="156.67735"
+         y="124.59721">G</tspan></text>
+  </g>
+</svg>

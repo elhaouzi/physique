@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28.541616mm"
+   height="60.914299mm"
+   viewBox="0 0 28.541616 60.914299"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-46.702012,-101.90954)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.238919;stroke-linecap:round;stroke-linejoin:round"
+       d="m 62.614756,102.24275 v 56.52795 c 1.327503,5.33066 11.080113,5.15844 12.462312,0 v -56.74171"
+       id="path4" />
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.0749975;stroke-linecap:round;stroke-linejoin:round"
+       d="m 67.896393,162.49538 c -2.253713,-0.24604 -4.030335,-1.33792 -4.831424,-2.9693 l -0.234852,-0.47827 -0.02143,-15.05348 -0.02143,-15.05348 h 6.064255 6.064253 l -0.02143,15.01372 -0.02143,15.01371 -0.280895,0.57056 c -0.52814,1.07278 -1.670441,2.00877 -3.078117,2.52217 -1.030232,0.37574 -2.518095,0.5544 -3.617497,0.43437 z"
+       id="path6" />
+    <g
+       id="g8"
+       transform="rotate(15.466921,69.924076,108.9634)">
+      <ellipse
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.238919;stroke-linecap:round;stroke-linejoin:round"
+         id="path7"
+         cx="81.624344"
+         cy="138.9801"
+         rx="1.9975898"
+         ry="0.42763221" />
+      <path
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.238919;stroke-linecap:round;stroke-linejoin:round"
+         d="m 80.953675,139.43097 v 19.30066 l 0.691761,2.58169 0.746363,-2.78547 v -19.17917"
+         id="path8" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#cccccc;stroke:#000000;stroke-width:0.239;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="48.047497"
+       y="137.15814"
+       id="text8"><tspan
+         id="tspan8"
+         style="font-size:4.23333px;fill:#1a1a1a;stroke-width:0.239;stroke-dasharray:none"
+         x="48.047497"
+         y="137.15814">Eau</tspan></text>
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.239;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 56.525714,135.993 H 67.213541"
+       id="path9" />
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.239;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle-9)"
+       d="M 56.475747,154.19402 H 67.163574"
+       id="path9-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#1a1a1a;stroke:#000000;stroke-width:0.239;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.583805"
+       y="155.30737"
+       id="text9"><tspan
+         id="tspan9"
+         style="font-size:4.23333px;stroke-width:0.239"
+         x="46.583805"
+         y="155.30737">Clou</tspan></text>
+  </g>
+</svg>

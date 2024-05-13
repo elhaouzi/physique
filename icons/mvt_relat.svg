@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="187.44212mm"
+   height="30.414326mm"
+   viewBox="0 0 708.44268 114.95178"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path1-5" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-216.6477,-265.1002)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="428.71451"
+       height="112.5138"
+       x="355.95206"
+       y="265.89157" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       id="path2"
+       cx="288.64929"
+       cy="297.56525"
+       rx="6.2596588"
+       ry="7.2033339" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       d="m 271.67187,335.09604 c -0.87636,-13.05879 5.62807,-28.04251 16.65571,-27.91232 11.02764,0.13019 19.40489,19.0317 16.88353,28.74226 -1.89387,4.68602 -5.29606,3.8867 -6.12995,0.32278 l -1.62887,-15.67532 0.031,53.70871 c -0.46117,2.65949 -6.30872,2.92691 -7.27119,-0.0166 l -2.37454,-31.31988 -1.38342,31.63059 c -1.49979,3.77169 -7.0331,2.42121 -7.18115,-0.76749 l 0.0582,-54.37211 -1.6051,16.30558 c -2.07239,5.87448 -4.12879,3.52149 -6.05422,-0.6462 z"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       d="m 402.57798,372.25575 4.6639,-0.0463 1.56972,-3.98285 c 0,0 6.33759,-5.06791 5.99435,-8.86557 -2.28243,-1.59612 -10.09275,-2.47275 -10.09275,-2.47275 -2.58259,-5.34299 -0.88189,-14.61061 -0.88189,-14.61061 l -1.72848,-2.7771 0.34033,-2.76034 c 0,0 2.39171,-3.25533 1.87717,-5.10368 -0.51454,-1.84835 -2.60758,-3.93942 -4.7406,-3.7971 -2.13302,0.14232 -4.3107,2.91609 -4.66296,4.88432 -0.35226,1.96823 2.08088,4.81373 2.08088,4.81373 l -0.0145,2.86522 -1.45888,2.39765 2.07906,18.20908 9.40691,1.58301 -2.19391,4.04159 -2.23694,0.48033 z"
+       id="path4" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       id="path5"
+       cx="580.35211"
+       cy="313.9707"
+       rx="4.645504"
+       ry="5.3352866" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       d="m 564.56175,371.74989 0.37292,-5.84197 c 0,0 5.60123,-7.3534 5.82072,-9.79952 0.67405,-3.03075 -1.18873,-13.76352 -1.18873,-13.76352 l 1.70909,-16.41224 c 0,0 0.65643,-2.90749 6.55347,-3.51147 l 2.66555,1.87768 c 0,0 -1.30724,11.34623 -0.34686,13.9703 l 5.19806,5.4408 c 0,0 2.13697,3.19656 0.002,4.13768 l -7.39565,-4.81806 6.81503,8.47231 0.44625,19.94039 c -1.01233,1.50205 -5.89127,1.01012 -5.89127,1.01012 l 0.24935,-3.60559 1.2428,-2.92803 c 0.51473,-6.90703 -1.38385,-13.15302 -3.37291,-13.88979 -2.37738,1.51481 -3.5238,10.59541 -3.5238,10.59541 l -6.28132,9.51457 z"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       d="m 785.03403,378.676 h 75.59116 V 330.11135 L 817.11697,304.99187 806.549,265.55168 h -22.44258"
+       id="path7" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       x="413.7446"
+       y="318.35666"
+       id="text7"><tspan
+         id="tspan7"
+         x="413.7446"
+         y="318.35666"
+         style="font-size:13.3333px">Abdessamad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       x="579.57898"
+       y="303.65234"
+       id="text8"><tspan
+         id="tspan8"
+         x="579.57898"
+         y="303.65234">Khadija</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round"
+       x="851.07245"
+       y="299.89468"
+       id="text10"><tspan
+         id="tspan10"
+         x="851.07245"
+         y="299.89468">Train</tspan></text>
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ArrowWide)"
+       d="m 838.35835,308.9421 h 57.35129"
+       id="path10" />
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.903;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ArrowWide-7)"
+       d="m 586.43536,332.0738 h 57.35129"
+       id="path10-6" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:#000000;stroke-width:0.903307;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="288.90604"
+       y="279.50635"
+       id="text11"><tspan
+         id="tspan11"
+         x="288.90604"
+         y="279.50635">Khalid</tspan></text>
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:3.17102;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 219.38388,378.46647 H 923.50485"
+       id="path11" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:#000000;stroke-width:0.903307;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="231.76079"
+       y="369.36591"
+       id="text12"><tspan
+         id="tspan12"
+         x="231.76079"
+         y="369.36591">Quai</tspan></text>
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.377953;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.377953, 0.377953"
+       d="m 582.26761,308.65608 -3.79844,6.49716 -4.00455,9.69899 -3.00017,-0.90616 0.38932,-7.65578 4.71079,-6.68735 z"
+       id="path8" />
+  </g>
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="81.636612mm"
+   height="11.164613mm"
+   viewBox="0 0 81.636612 11.164613"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4356">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4354" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-62.383958,-249.40183)">
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.2"
+       id="path7941-39"
+       cx="65.490837"
+       cy="252.50871"
+       r="3.0068789" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.2"
+       id="path7941-7-4"
+       cx="71.682472"
+       cy="257.45956"
+       r="3.0068789" />
+    <circle
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.2"
+       id="path7941-6-8"
+       cx="84.807991"
+       cy="254.65825"
+       r="3.0068789" />
+    <circle
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.2"
+       id="path7941-6-7-1"
+       cx="90.254158"
+       cy="254.65825"
+       r="3.0068789" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:7.05556px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;text-anchor:middle;fill:#cccccc;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+       x="77.933197"
+       y="256.40561"
+       id="text10242-2"><tspan
+         id="tspan10240-9"
+         style="font-size:7.05556px;stroke-width:0.4;stroke-dasharray:none"
+         x="77.933197"
+         y="256.40561">+</tspan></text>
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+       d="M 95.969769,255.23193 H 116.9102 l -2.86279,-1.65282 v 3.58138 l 2.16495,-2.16493"
+       id="path10348-3" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.2"
+       id="path7941-3-9"
+       cx="122.90318"
+       cy="255.59631"
+       r="3.0068789" />
+    <circle
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.2"
+       id="path7941-6-6-0"
+       cx="127.8019"
+       cy="255.59631"
+       r="3.0068789" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.2"
+       id="path7941-3-5-8"
+       cx="136.01506"
+       cy="255.46576"
+       r="3.0068789" />
+    <circle
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.2"
+       id="path7941-6-6-6-8"
+       cx="140.9137"
+       cy="255.46576"
+       r="3.0068789" />
+  </g>
+</svg>

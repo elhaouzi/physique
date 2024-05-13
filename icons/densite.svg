@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="82.414207mm"
+   height="29.999994mm"
+   viewBox="0 0 82.414207 29.999994"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-69.53499,-41.285796)">
+    <g
+       id="g1440"
+       transform="matrix(0.66375155,0,0,0.66375155,23.381036,-16.460406)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3"
+         id="rect234"
+         width="9.5274391"
+         height="44.396069"
+         x="69.68499"
+         y="87.149742" />
+      <rect
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.201149"
+         id="rect234-3"
+         width="9.6262903"
+         height="19.754004"
+         x="69.750618"
+         y="112.34277" />
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:4.23333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.3"
+         x="85.676422"
+         y="113.70712"
+         id="text1325"><tspan
+           id="tspan1323"
+           style="font-size:4.23333px;stroke-width:0.3"
+           x="85.676422"
+           y="113.70712">50 mL</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.199118"
+       id="rect234-6"
+       width="6.3238544"
+       height="29.467972"
+       x="93.398262"
+       y="41.385353" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.157771"
+       id="rect234-3-7"
+       width="6.3651986"
+       height="18.380716"
+       x="93.454086"
+       y="52.826191" />
+    <path
+       id="rect236"
+       style="fill:#999999;stroke:#000000;stroke-width:0.167063"
+       d="m 94.505413,66.800781 -0.366315,-4.118289 4.381117,1.636851 1.156939,4.358578 -4.761416,1.944507 z" />
+    <path
+       id="rect236-5"
+       style="fill:#999999;stroke:#000000;stroke-width:0.167063"
+       d="m 132.51158,57.407978 -4.12941,-0.209472 2.22993,-4.111337 4.47709,-0.539828 1.26387,4.985299 z" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:2.80973px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.199118"
+       x="104.24179"
+       y="53.930813"
+       id="text1325-5"><tspan
+         id="tspan1323-3"
+         style="font-size:2.80973px;stroke-width:0.199118"
+         x="104.24179"
+         y="53.930813">80 mL</tspan></text>
+    <g
+       id="g1454"
+       transform="matrix(0.66375155,0,0,0.66375155,71.249159,-47.156012)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3"
+         id="rect1109"
+         width="57.866703"
+         height="20.488457"
+         x="63.56501"
+         y="157.80452" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3"
+         id="rect1215"
+         width="27.068344"
+         height="10.72056"
+         x="91.859299"
+         y="162.68846" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.3"
+         id="path1269"
+         cx="71.356728"
+         cy="168.04875"
+         rx="3.7026126"
+         ry="3.5957518" />
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:4.23333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.3"
+         x="101.35462"
+         y="168.96733"
+         id="text1425"><tspan
+           id="tspan1423"
+           style="font-size:4.23333px;stroke-width:0.3"
+           x="101.35462"
+           y="168.96733">75 g</tspan></text>
+    </g>
+  </g>
+</svg>

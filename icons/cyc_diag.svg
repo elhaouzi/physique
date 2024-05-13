@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="196.79755mm"
+   height="10.205567mm"
+   viewBox="0 0 196.79755 10.205567"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-6.3706352,-24.845161)">
+    <g
+       id="g6"
+       transform="translate(-29.526885,-80.199379)">
+      <ellipse
+         style="fill:#ececec;stroke:#000000;stroke-width:0.241304"
+         id="path1"
+         cx="51.83881"
+         cy="110.14732"
+         rx="15.820638"
+         ry="4.7212901" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;fill:#ececec;stroke:#000000;stroke-width:0.365001"
+         x="37.866547"
+         y="111.31521"
+         id="text2"><tspan
+           id="tspan2"
+           style="stroke-width:0.365"
+           x="37.866547"
+           y="111.31521">Précipitation</tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(-55.254982,-82.70527)">
+      <ellipse
+         style="fill:#ececec;stroke:#000000;stroke-width:0.240673"
+         id="path2"
+         cx="127.85856"
+         cy="112.65321"
+         rx="15.995494"
+         ry="4.9824462" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;fill:#ececec;stroke:#000000;stroke-width:0.365001"
+         x="113.46255"
+         y="114.23141"
+         id="text3"><tspan
+           id="tspan3"
+           style="stroke-width:0.365"
+           x="113.46255"
+           y="114.23141">Ruisselement</tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="translate(39.755849,-111.43869)">
+      <rect
+         style="fill:#ececec;stroke:#000000;stroke-width:0.263611"
+         id="rect3"
+         width="14.476166"
+         height="8.2627125"
+         x="67.329895"
+         y="137.2552" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;fill:#ececec;stroke:#000000;stroke-width:0.365001"
+         x="67.858315"
+         y="142.92755"
+         id="text4"><tspan
+           id="tspan4"
+           style="stroke-width:0.365"
+           x="67.858315"
+           y="142.92755">Océan</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(14.251273,-110.40643)">
+      <ellipse
+         style="fill:#ececec;stroke:#000000;stroke-width:0.1278"
+         id="path2-5"
+         cx="131.96457"
+         cy="140.35431"
+         rx="6.2236953"
+         ry="3.610749" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;fill:#ececec;stroke:#000000;stroke-width:0.365001"
+         x="128.5901"
+         y="141.92528"
+         id="text5"><tspan
+           id="tspan5"
+           style="stroke-width:0.365"
+           x="128.5901"
+           y="141.92528">???</tspan></text>
+    </g>
+    <g
+       id="g9"
+       transform="translate(98.242135,-133.5943)">
+      <rect
+         style="fill:#ececec;stroke:#000000;stroke-width:0.389192"
+         id="rect3-2"
+         width="32.041019"
+         height="8.1371317"
+         x="72.69043"
+         y="159.47348" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;fill:#ececec;stroke:#000000;stroke-width:0.365001"
+         x="74.90921"
+         y="164.70993"
+         id="text6"><tspan
+           id="tspan6"
+           style="stroke-width:0.365"
+           x="74.90921"
+           y="164.70993">Vapeur d'eau</tspan></text>
+    </g>
+    <path
+       style="fill:#ececec;stroke:#000000;stroke-width:0.365001"
+       d="m 38.756756,30.161856 h 17.075999 l -0.765021,-0.765014 v 1.501611 l 1.156361,-0.625597"
+       id="path13" />
+    <path
+       style="fill:#ececec;stroke:#000000;stroke-width:0.323703"
+       d="m 91.022034,30.045649 h 13.280356 l -0.59498,-0.773667 v 1.518591 l 0.89932,-0.632667"
+       id="path13-7" />
+    <path
+       style="fill:#ececec;stroke:#000000;stroke-width:0.319726"
+       d="m 124.6056,30.134369 h 12.93224 l -0.57939,-0.775097 v 1.521401 l 0.87575,-0.633837"
+       id="path13-7-6" />
+    <path
+       style="fill:#ececec;stroke:#000000;stroke-width:0.297175"
+       d="m 155.57502,29.870919 h 11.05697 l -0.49537,-0.783174 v 1.537261 l 0.74876,-0.640447"
+       id="path13-7-61" />
+  </g>
+</svg>
